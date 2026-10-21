@@ -31,3 +31,9 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Tool binary and default export directory
+/tkav
+/traefik-k8s-apiversion
+/traefik-io-manifests/
+/dist/
